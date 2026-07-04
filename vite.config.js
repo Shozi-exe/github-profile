@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/github-profile.git/",
+  base: "/github-profile/",
 })
